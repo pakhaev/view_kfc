@@ -1,0 +1,14 @@
+{
+  "name": "view-kfc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "A": "0.0.1"
+  }
+}
